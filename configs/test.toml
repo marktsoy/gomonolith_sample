@@ -1,0 +1,1 @@
+store = "postgres://localhost/monolith_tg_sender?sslmode=disable"
